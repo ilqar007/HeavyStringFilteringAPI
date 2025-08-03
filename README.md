@@ -41,3 +41,8 @@ Presentation/UI Layer (e.g., Web API, Worker):
 The entry point of the application (e.g., ASP.NET Core Controllers).
 Handles user interactions and presents data.
 Depends on the Application Layer to interact with business logic.
+
+
+- Filtering Logic 
+
+it is pure c# methods used for determining similarities and distance for a given word among the combined text. I found the implementation from internet not much sure about the functionality. Just tried to used 1 interface and 2 different implementation of it to demonstrate how to dynamically choose between the twos.
