@@ -1,0 +1,472 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFilteringAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8231021C-6652-463C-A215-E2EDAFB59052}|HeavyStringFiltering.Application\\HeavyStringFiltering.Application.csproj|c:\\users\\ilqar\\source\\repos\\heavystringfilteringapi\\heavystringfiltering.application\\services\\ichunkstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8231021C-6652-463C-A215-E2EDAFB59052}|HeavyStringFiltering.Application\\HeavyStringFiltering.Application.csproj|solutionrelative:heavystringfiltering.application\\services\\ichunkstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8231021C-6652-463C-A215-E2EDAFB59052}|HeavyStringFiltering.Application\\HeavyStringFiltering.Application.csproj|c:\\users\\ilqar\\source\\repos\\heavystringfilteringapi\\heavystringfiltering.application\\heavystringfiltering.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8231021C-6652-463C-A215-E2EDAFB59052}|HeavyStringFiltering.Application\\HeavyStringFiltering.Application.csproj|solutionrelative:heavystringfiltering.application\\heavystringfiltering.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7197F1-A3D8-41ED-9E12-089C454892E7}|..\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\HeavyStringFiltering.API.csproj|c:\\users\\ilqar\\source\\repos\\heavystringfiltering.api\\heavystringfiltering.api\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7197F1-A3D8-41ED-9E12-089C454892E7}|..\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\HeavyStringFiltering.API.csproj|c:\\users\\ilqar\\source\\repos\\heavystringfiltering.api\\heavystringfiltering.api\\backgroundtask\\queuedhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7197F1-A3D8-41ED-9E12-089C454892E7}|..\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\HeavyStringFiltering.API.csproj|c:\\users\\ilqar\\source\\repos\\heavystringfiltering.api\\heavystringfiltering.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7197F1-A3D8-41ED-9E12-089C454892E7}|..\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\HeavyStringFiltering.API.csproj|c:\\users\\ilqar\\source\\repos\\heavystringfiltering.api\\heavystringfiltering.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5162A99D-6949-4173-BA5C-6EE24F6400D9}|HeavyStringFiltering.Infrastructure\\HeavyStringFiltering.Infrastructure.csproj|c:\\users\\ilqar\\source\\repos\\heavystringfilteringapi\\heavystringfiltering.infrastructure\\services\\backgroundqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5162A99D-6949-4173-BA5C-6EE24F6400D9}|HeavyStringFiltering.Infrastructure\\HeavyStringFiltering.Infrastructure.csproj|solutionrelative:heavystringfiltering.infrastructure\\services\\backgroundqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5162A99D-6949-4173-BA5C-6EE24F6400D9}|HeavyStringFiltering.Infrastructure\\HeavyStringFiltering.Infrastructure.csproj|c:\\users\\ilqar\\source\\repos\\heavystringfilteringapi\\heavystringfiltering.infrastructure\\services\\chunkstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5162A99D-6949-4173-BA5C-6EE24F6400D9}|HeavyStringFiltering.Infrastructure\\HeavyStringFiltering.Infrastructure.csproj|solutionrelative:heavystringfiltering.infrastructure\\services\\chunkstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEADD9C-8FE2-4CE5-9723-4E444715EFE8}|HeavyStringFilteringAPI.Tests\\HeavyStringFilteringAPI.Tests.csproj|c:\\users\\ilqar\\source\\repos\\heavystringfilteringapi\\heavystringfilteringapi.tests\\filteringtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BEADD9C-8FE2-4CE5-9723-4E444715EFE8}|HeavyStringFilteringAPI.Tests\\HeavyStringFilteringAPI.Tests.csproj|solutionrelative:heavystringfilteringapi.tests\\filteringtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5162A99D-6949-4173-BA5C-6EE24F6400D9}|HeavyStringFiltering.Infrastructure\\HeavyStringFiltering.Infrastructure.csproj|c:\\users\\ilqar\\source\\repos\\heavystringfilteringapi\\heavystringfiltering.infrastructure\\services\\jarowinklerfilteringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5162A99D-6949-4173-BA5C-6EE24F6400D9}|HeavyStringFiltering.Infrastructure\\HeavyStringFiltering.Infrastructure.csproj|solutionrelative:heavystringfiltering.infrastructure\\services\\jarowinklerfilteringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5162A99D-6949-4173-BA5C-6EE24F6400D9}|HeavyStringFiltering.Infrastructure\\HeavyStringFiltering.Infrastructure.csproj|c:\\users\\ilqar\\source\\repos\\heavystringfilteringapi\\heavystringfiltering.infrastructure\\services\\levenshteinfilteringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5162A99D-6949-4173-BA5C-6EE24F6400D9}|HeavyStringFiltering.Infrastructure\\HeavyStringFiltering.Infrastructure.csproj|solutionrelative:heavystringfiltering.infrastructure\\services\\levenshteinfilteringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEADD9C-8FE2-4CE5-9723-4E444715EFE8}|HeavyStringFilteringAPI.Tests\\HeavyStringFilteringAPI.Tests.csproj|c:\\users\\ilqar\\source\\repos\\heavystringfilteringapi\\heavystringfilteringapi.tests\\backgroundqueueservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BEADD9C-8FE2-4CE5-9723-4E444715EFE8}|HeavyStringFilteringAPI.Tests\\HeavyStringFilteringAPI.Tests.csproj|solutionrelative:heavystringfilteringapi.tests\\backgroundqueueservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8231021C-6652-463C-A215-E2EDAFB59052}|HeavyStringFiltering.Application\\HeavyStringFiltering.Application.csproj|c:\\users\\ilqar\\source\\repos\\heavystringfilteringapi\\heavystringfiltering.application\\services\\ibackgroundqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8231021C-6652-463C-A215-E2EDAFB59052}|HeavyStringFiltering.Application\\HeavyStringFiltering.Application.csproj|solutionrelative:heavystringfiltering.application\\services\\ibackgroundqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8231021C-6652-463C-A215-E2EDAFB59052}|HeavyStringFiltering.Application\\HeavyStringFiltering.Application.csproj|c:\\users\\ilqar\\source\\repos\\heavystringfilteringapi\\heavystringfiltering.application\\services\\ifilteringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8231021C-6652-463C-A215-E2EDAFB59052}|HeavyStringFiltering.Application\\HeavyStringFiltering.Application.csproj|solutionrelative:heavystringfiltering.application\\services\\ifilteringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5162A99D-6949-4173-BA5C-6EE24F6400D9}|HeavyStringFiltering.Infrastructure\\HeavyStringFiltering.Infrastructure.csproj|c:\\users\\ilqar\\source\\repos\\heavystringfilteringapi\\heavystringfiltering.infrastructure\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5162A99D-6949-4173-BA5C-6EE24F6400D9}|HeavyStringFiltering.Infrastructure\\HeavyStringFiltering.Infrastructure.csproj|solutionrelative:heavystringfiltering.infrastructure\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8231021C-6652-463C-A215-E2EDAFB59052}|HeavyStringFiltering.Application\\HeavyStringFiltering.Application.csproj|c:\\users\\ilqar\\source\\repos\\heavystringfilteringapi\\heavystringfiltering.application\\dtos\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8231021C-6652-463C-A215-E2EDAFB59052}|HeavyStringFiltering.Application\\HeavyStringFiltering.Application.csproj|solutionrelative:heavystringfiltering.application\\dtos\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7197F1-A3D8-41ED-9E12-089C454892E7}|..\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\HeavyStringFiltering.API.csproj|c:\\users\\ilqar\\source\\repos\\heavystringfiltering.api\\heavystringfiltering.api\\infrastucture\\startupconfiguration\\serviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7197F1-A3D8-41ED-9E12-089C454892E7}|..\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\HeavyStringFiltering.API.csproj|c:\\users\\ilqar\\source\\repos\\heavystringfiltering.api\\heavystringfiltering.api\\heavystringfiltering.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8231021C-6652-463C-A215-E2EDAFB59052}|HeavyStringFiltering.Application\\HeavyStringFiltering.Application.csproj|c:\\users\\ilqar\\source\\repos\\heavystringfilteringapi\\heavystringfiltering.application\\dtos\\textchunkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8231021C-6652-463C-A215-E2EDAFB59052}|HeavyStringFiltering.Application\\HeavyStringFiltering.Application.csproj|solutionrelative:heavystringfiltering.application\\dtos\\textchunkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7197F1-A3D8-41ED-9E12-089C454892E7}|..\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\HeavyStringFiltering.API.csproj|c:\\users\\ilqar\\source\\repos\\heavystringfiltering.api\\heavystringfiltering.api\\infrastucture\\startupconfiguration\\hostconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7197F1-A3D8-41ED-9E12-089C454892E7}|..\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\HeavyStringFiltering.API.csproj|c:\\users\\ilqar\\source\\repos\\heavystringfiltering.api\\heavystringfiltering.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 34,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\appsettings.json",
+              "RelativeToolTip": "..\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-03T14:41:32.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChunkStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFilteringAPI\\HeavyStringFiltering.Infrastructure\\Services\\ChunkStorageService.cs",
+              "RelativeDocumentMoniker": "HeavyStringFiltering.Infrastructure\\Services\\ChunkStorageService.cs",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFilteringAPI\\HeavyStringFiltering.Infrastructure\\Services\\ChunkStorageService.cs",
+              "RelativeToolTip": "HeavyStringFiltering.Infrastructure\\Services\\ChunkStorageService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvzIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T20:05:16.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QueuedHostedService.cs",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\BackgroundTask\\QueuedHostedService.cs",
+              "RelativeDocumentMoniker": "..\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\BackgroundTask\\QueuedHostedService.cs",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\BackgroundTask\\QueuedHostedService.cs",
+              "RelativeToolTip": "..\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\BackgroundTask\\QueuedHostedService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wC4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T08:30:38.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "..\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\appsettings.Development.json",
+              "RelativeToolTip": "..\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-03T14:41:46.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UploadController.cs",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\Controllers\\UploadController.cs",
+              "RelativeDocumentMoniker": "..\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\Controllers\\UploadController.cs",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\Controllers\\UploadController.cs",
+              "RelativeToolTip": "..\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\Controllers\\UploadController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T19:49:26.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HeavyStringFiltering.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFilteringAPI\\HeavyStringFiltering.Application\\HeavyStringFiltering.Application.csproj",
+              "RelativeDocumentMoniker": "HeavyStringFiltering.Application\\HeavyStringFiltering.Application.csproj",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFilteringAPI\\HeavyStringFiltering.Application\\HeavyStringFiltering.Application.csproj",
+              "RelativeToolTip": "HeavyStringFiltering.Application\\HeavyStringFiltering.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-02T13:56:50.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IChunkStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFilteringAPI\\HeavyStringFiltering.Application\\Services\\IChunkStorageService.cs",
+              "RelativeDocumentMoniker": "HeavyStringFiltering.Application\\Services\\IChunkStorageService.cs",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFilteringAPI\\HeavyStringFiltering.Application\\Services\\IChunkStorageService.cs",
+              "RelativeToolTip": "HeavyStringFiltering.Application\\Services\\IChunkStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T14:36:37.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LevenshteinFilteringService.cs",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFilteringAPI\\HeavyStringFiltering.Infrastructure\\Services\\LevenshteinFilteringService.cs",
+              "RelativeDocumentMoniker": "HeavyStringFiltering.Infrastructure\\Services\\LevenshteinFilteringService.cs",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFilteringAPI\\HeavyStringFiltering.Infrastructure\\Services\\LevenshteinFilteringService.cs",
+              "RelativeToolTip": "HeavyStringFiltering.Infrastructure\\Services\\LevenshteinFilteringService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T14:49:04.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JaroWinklerFilteringService.cs",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFilteringAPI\\HeavyStringFiltering.Infrastructure\\Services\\JaroWinklerFilteringService.cs",
+              "RelativeDocumentMoniker": "HeavyStringFiltering.Infrastructure\\Services\\JaroWinklerFilteringService.cs",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFilteringAPI\\HeavyStringFiltering.Infrastructure\\Services\\JaroWinklerFilteringService.cs",
+              "RelativeToolTip": "HeavyStringFiltering.Infrastructure\\Services\\JaroWinklerFilteringService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T14:51:34.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBackgroundQueueService.cs",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFilteringAPI\\HeavyStringFiltering.Application\\Services\\IBackgroundQueueService.cs",
+              "RelativeDocumentMoniker": "HeavyStringFiltering.Application\\Services\\IBackgroundQueueService.cs",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFilteringAPI\\HeavyStringFiltering.Application\\Services\\IBackgroundQueueService.cs",
+              "RelativeToolTip": "HeavyStringFiltering.Application\\Services\\IBackgroundQueueService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T07:05:16.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BackgroundQueueService.cs",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFilteringAPI\\HeavyStringFiltering.Infrastructure\\Services\\BackgroundQueueService.cs",
+              "RelativeDocumentMoniker": "HeavyStringFiltering.Infrastructure\\Services\\BackgroundQueueService.cs",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFilteringAPI\\HeavyStringFiltering.Infrastructure\\Services\\BackgroundQueueService.cs",
+              "RelativeToolTip": "HeavyStringFiltering.Infrastructure\\Services\\BackgroundQueueService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T08:59:31.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FilteringTests.cs",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFilteringAPI\\HeavyStringFilteringAPI.Tests\\FilteringTests.cs",
+              "RelativeDocumentMoniker": "HeavyStringFilteringAPI.Tests\\FilteringTests.cs",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFilteringAPI\\HeavyStringFilteringAPI.Tests\\FilteringTests.cs",
+              "RelativeToolTip": "HeavyStringFilteringAPI.Tests\\FilteringTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T18:09:33.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BackgroundQueueServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFilteringAPI\\HeavyStringFilteringAPI.Tests\\BackgroundQueueServiceTests.cs",
+              "RelativeDocumentMoniker": "HeavyStringFilteringAPI.Tests\\BackgroundQueueServiceTests.cs",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFilteringAPI\\HeavyStringFilteringAPI.Tests\\BackgroundQueueServiceTests.cs",
+              "RelativeToolTip": "HeavyStringFilteringAPI.Tests\\BackgroundQueueServiceTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T15:06:27.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServiceConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\Infrastucture\\StartupConfiguration\\ServiceConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\Infrastucture\\StartupConfiguration\\ServiceConfiguration.cs",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\Infrastucture\\StartupConfiguration\\ServiceConfiguration.cs",
+              "RelativeToolTip": "..\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\Infrastucture\\StartupConfiguration\\ServiceConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T19:54:34.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IFilteringService.cs",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFilteringAPI\\HeavyStringFiltering.Application\\Services\\IFilteringService.cs",
+              "RelativeDocumentMoniker": "HeavyStringFiltering.Application\\Services\\IFilteringService.cs",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFilteringAPI\\HeavyStringFiltering.Application\\Services\\IFilteringService.cs",
+              "RelativeToolTip": "HeavyStringFiltering.Application\\Services\\IFilteringService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:55:53.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServiceCollectionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFilteringAPI\\HeavyStringFiltering.Infrastructure\\ServiceCollectionExtension.cs",
+              "RelativeDocumentMoniker": "HeavyStringFiltering.Infrastructure\\ServiceCollectionExtension.cs",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFilteringAPI\\HeavyStringFiltering.Infrastructure\\ServiceCollectionExtension.cs",
+              "RelativeToolTip": "HeavyStringFiltering.Infrastructure\\ServiceCollectionExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswB0AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T14:28:49.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFilteringAPI\\HeavyStringFiltering.Application\\Dtos\\AppSettings.cs",
+              "RelativeDocumentMoniker": "HeavyStringFiltering.Application\\Dtos\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFilteringAPI\\HeavyStringFiltering.Application\\Dtos\\AppSettings.cs",
+              "RelativeToolTip": "HeavyStringFiltering.Application\\Dtos\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T14:34:49.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HeavyStringFiltering.API.csproj",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\HeavyStringFiltering.API.csproj",
+              "RelativeDocumentMoniker": "..\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\HeavyStringFiltering.API.csproj",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\HeavyStringFiltering.API.csproj",
+              "RelativeToolTip": "..\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\HeavyStringFiltering.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-02T19:52:10.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HostConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\Infrastucture\\StartupConfiguration\\HostConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\Infrastucture\\StartupConfiguration\\HostConfiguration.cs",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\Infrastucture\\StartupConfiguration\\HostConfiguration.cs",
+              "RelativeToolTip": "..\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\Infrastucture\\StartupConfiguration\\HostConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T19:54:20.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TextChunkDto.cs",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFilteringAPI\\HeavyStringFiltering.Application\\Dtos\\TextChunkDto.cs",
+              "RelativeDocumentMoniker": "HeavyStringFiltering.Application\\Dtos\\TextChunkDto.cs",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFilteringAPI\\HeavyStringFiltering.Application\\Dtos\\TextChunkDto.cs",
+              "RelativeToolTip": "HeavyStringFiltering.Application\\Dtos\\TextChunkDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T15:22:26.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "..\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\WeatherForecast.cs",
+              "RelativeToolTip": "..\\HeavyStringFiltering.API\\HeavyStringFiltering.API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T13:39:50.572Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Infrastructure\obj\Debug\net9.0\HeavyStringFiltering.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Infrastructure\obj\Debug\net9.0\HeavyStringFiltering.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Infrastructure\obj\Debug\net9.0\HeavyStringFiltering.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Infrastructure\obj\Debug\net9.0\HeavyStringFiltering.Infrastructure.AssemblyInfo.cs
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Infrastructure\obj\Debug\net9.0\HeavyStringFiltering.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Infrastructure\bin\Debug\net9.0\HeavyStringFiltering.Infrastructure.deps.json
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Infrastructure\bin\Debug\net9.0\HeavyStringFiltering.Infrastructure.dll
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Infrastructure\bin\Debug\net9.0\HeavyStringFiltering.Infrastructure.pdb
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Infrastructure\bin\Debug\net9.0\HeavyStringFiltering.Application.dll
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Infrastructure\bin\Debug\net9.0\HeavyStringFiltering.Application.pdb
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Infrastructure\obj\Debug\net9.0\HeavyStr.E3C75357.Up2Date
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Infrastructure\obj\Debug\net9.0\HeavyStringFiltering.Infrastructure.dll
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Infrastructure\obj\Debug\net9.0\refint\HeavyStringFiltering.Infrastructure.dll
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Infrastructure\obj\Debug\net9.0\HeavyStringFiltering.Infrastructure.pdb
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Infrastructure\obj\Debug\net9.0\ref\HeavyStringFiltering.Infrastructure.dll

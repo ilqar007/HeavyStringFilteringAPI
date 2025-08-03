@@ -1,0 +1,12 @@
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Application\bin\Debug\net9.0\HeavyStringFiltering.Application.deps.json
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Application\bin\Debug\net9.0\HeavyStringFiltering.Application.dll
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Application\bin\Debug\net9.0\HeavyStringFiltering.Application.pdb
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Application\obj\Debug\net9.0\HeavyStringFiltering.Application.csproj.AssemblyReference.cache
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Application\obj\Debug\net9.0\HeavyStringFiltering.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Application\obj\Debug\net9.0\HeavyStringFiltering.Application.AssemblyInfoInputs.cache
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Application\obj\Debug\net9.0\HeavyStringFiltering.Application.AssemblyInfo.cs
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Application\obj\Debug\net9.0\HeavyStringFiltering.Application.csproj.CoreCompileInputs.cache
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Application\obj\Debug\net9.0\HeavyStringFiltering.Application.dll
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Application\obj\Debug\net9.0\refint\HeavyStringFiltering.Application.dll
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Application\obj\Debug\net9.0\HeavyStringFiltering.Application.pdb
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Application\obj\Debug\net9.0\ref\HeavyStringFiltering.Application.dll

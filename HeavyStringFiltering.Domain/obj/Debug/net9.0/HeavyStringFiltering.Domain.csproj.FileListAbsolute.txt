@@ -1,0 +1,11 @@
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Domain\bin\Debug\net9.0\HeavyStringFiltering.Domain.deps.json
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Domain\bin\Debug\net9.0\HeavyStringFiltering.Domain.dll
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Domain\bin\Debug\net9.0\HeavyStringFiltering.Domain.pdb
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Domain\obj\Debug\net9.0\HeavyStringFiltering.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Domain\obj\Debug\net9.0\HeavyStringFiltering.Domain.AssemblyInfoInputs.cache
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Domain\obj\Debug\net9.0\HeavyStringFiltering.Domain.AssemblyInfo.cs
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Domain\obj\Debug\net9.0\HeavyStringFiltering.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Domain\obj\Debug\net9.0\HeavyStringFiltering.Domain.dll
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Domain\obj\Debug\net9.0\refint\HeavyStringFiltering.Domain.dll
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Domain\obj\Debug\net9.0\HeavyStringFiltering.Domain.pdb
+C:\Users\ilqar\source\repos\HeavyStringFilteringAPI\HeavyStringFiltering.Domain\obj\Debug\net9.0\ref\HeavyStringFiltering.Domain.dll
