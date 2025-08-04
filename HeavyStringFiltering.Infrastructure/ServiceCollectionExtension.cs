@@ -34,6 +34,8 @@ namespace HeavyStringFiltering.Infrastructure
                 else
                     throw new Exception("No algoritm found for filtering logic in appsttings.json AppSettings->FilterAlgorithm");
             });
+
+            services.AddTransient<IUploadService, UploadService>();
         }
 
         private static void ConfigureOptions(IServiceCollection services, IConfiguration configuration)

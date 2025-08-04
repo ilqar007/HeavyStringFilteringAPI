@@ -9,6 +9,7 @@ Open visual studio 2022 -> f5-> http://localhost:5170/swagger
  - How to test the application
  
  in tests folder there are 2 test classes, right click in visual studio and Run tests
+ -- filtered texts are saved  into memory in QueuedHostedService.cs class  filteredTexts List
  
  - Your architecture and filtering logic
  
